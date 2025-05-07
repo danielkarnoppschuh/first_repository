@@ -1,2 +1,2 @@
-# first_repository
+# repository to study python language
 
