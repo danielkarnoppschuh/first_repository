@@ -12,3 +12,25 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px #131313;
 }
+img.print {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: #ff4800;
+    font-size: 2em;
+    
+}
+h2 {
+    text-align: left;
+    color: #ffd000;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+img.back {
+    height: 100px;
+    width: 150px;
+}
